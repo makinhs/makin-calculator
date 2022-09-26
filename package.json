@@ -2,7 +2,7 @@
   "name": "makin-calculator",
   "version": "1.0.2",
   "description": "a sample publish to npm",
-  "main": "./dist/src/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "format": "prettier --write \"src/**/*.ts\"",
