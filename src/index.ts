@@ -1,9 +1,10 @@
-export default class main {
+class Main {
   constructor() {
     console.log('Running main')
   }
-
-  sum(a: number, b: number) {
+  public sum(a: number, b: number) {
     return a + b;
   }
 }
+
+export default new Main();
