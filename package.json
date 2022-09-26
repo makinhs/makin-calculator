@@ -1,6 +1,6 @@
 {
   "name": "makin-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a sample publish to npm",
   "main": "./dist/src/index.js",
   "scripts": {
